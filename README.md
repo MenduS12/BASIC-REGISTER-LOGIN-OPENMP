@@ -1,4 +1,4 @@
-## (ENG): BASIC-REGISTER-LOGIN-OPENMP
+## (ENG): BASIC REGISTER LOGIN OPENMP
 * DataBase MySQL R41-4
 * Save Skin
 * Save Money
