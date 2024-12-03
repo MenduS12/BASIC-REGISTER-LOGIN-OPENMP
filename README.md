@@ -1,7 +1,7 @@
 ## (ENG): BASIC-REGISTER-LOGIN-OPENMP
-* SAVE MySQL R41-4
-* SAVE SKIN 
-* SAVE MONEY 
-* SAVE LEVEL
-* COMMAND
+* DataBase MySQL R41-4
+* Save Skin
+* Save Money
+* Save Level
+* 
 * /setskin
